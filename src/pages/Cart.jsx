@@ -124,7 +124,7 @@ function Cart({ cart, onUpdateQuantity, onRemoveItem, onResetCart }) {
           <div className="order-modal" role="dialog" aria-modal="true" aria-labelledby="order-title">
             <CheckCircle2 size={44} />
             <h2 id="order-title">Order placed!</h2>
-            <p>Your demo order was submitted successfully.</p>
+            <p>Your order was submitted successfully.</p>
             <button className="btn btn-warning" type="button" onClick={() => setShowOrderModal(false)}>
               Close
             </button>
@@ -136,3 +136,4 @@ function Cart({ cart, onUpdateQuantity, onRemoveItem, onResetCart }) {
 }
 
 export default Cart;
+

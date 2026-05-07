@@ -33,7 +33,8 @@ http://localhost:3000
 - Product detail pages with an in-stock label
 - Cart summary with subtotal, tax, shipping, and estimated total
 - Checkout confirmation
-- Reset cart button for demos and testing
+- Reset cart button for testing
 - About and Contact pages
 - JSON database persistence in `server/db.json`
 - External product and carousel images loaded from stock image URLs
+
