@@ -1,0 +1,24 @@
+{
+  "name": "college-ecommerce-app",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server/index.js",
+    "build": "vite build",
+    "prestart": "npm run build",
+    "start": "node server/start.js",
+    "preview": "node server/start.js"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "bootstrap": "^5.3.3",
+    "express": "^4.19.2",
+    "lucide-react": "^0.468.0",
+    "vite": "^6.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0"
+  },
+  "devDependencies": {}
+}

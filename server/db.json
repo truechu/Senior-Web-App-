@@ -1,0 +1,125 @@
+{
+  "products": [ 
+    {
+      "id": 1,
+      "name": "Wireless Study Headphones",
+      "category": "Electronics",
+      "price": 79.99,
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "bestSeller": true,
+      "description": "Noise-reducing headphones with soft ear cushions and a long battery life for study sessions.",
+      "details": [
+        "Up to 32 hours of battery life",
+        "Bluetooth connection for laptops and phones",
+        "Foldable design that fits in a backpack"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Everyday Laptop Backpack",
+      "category": "School Supplies",
+      "price": 44.5,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "bestSeller": true,
+      "description": "A sturdy backpack with a padded laptop pocket, bottle holder, and room for books.",
+      "details": [
+        "Fits laptops up to 15 inches",
+        "Water-resistant outside pocket",
+        "Comfort straps for walking across campus"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Desk Lamp with USB Port",
+      "category": "Dorm Room",
+      "price": 29.99,
+      "rating": 4.4,
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=80",
+      "bestSeller": true,
+      "description": "A compact LED desk lamp with three brightness settings and a built-in USB charging port.",
+      "details": [
+        "Three brightness levels",
+        "Flexible neck for reading or typing",
+        "Built-in USB-A charging port"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Insulated Water Bottle",
+      "category": "Campus Gear",
+      "price": 18.99,
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=900&q=80",
+      "bestSeller": false,
+      "description": "A stainless steel bottle that keeps drinks cold during class and workouts.",
+      "details": [
+        "24 ounce capacity",
+        "Leak-resistant lid",
+        "Fits most backpack side pockets"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Bluetooth Mini Speaker",
+      "category": "Electronics",
+      "price": 39.99,
+      "rating": 4.3,
+      "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=900&q=80",
+      "bestSeller": false,
+      "description": "Small wireless speaker for dorm rooms, study breaks, and weekend hangouts.",
+      "details": [
+        "Clear sound in a compact size",
+        "Rechargeable battery",
+        "Simple Bluetooth pairing"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "College Notebook Bundle",
+      "category": "School Supplies",
+      "price": 12.99,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=900&q=80",
+      "bestSeller": true,
+      "description": "A set of five spiral notebooks for lectures, labs, and homework.",
+      "details": [
+        "Five college-ruled notebooks",
+        "Different colors for each subject",
+        "Durable covers for daily use"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Ceramic Coffee Mug",
+      "category": "Dorm Room",
+      "price": 14.99,
+      "rating": 4.2,
+      "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "bestSeller": false,
+      "description": "A simple microwave-safe mug for coffee, tea, or late-night hot chocolate.",
+      "details": [
+        "12 ounce size",
+        "Microwave and dishwasher safe",
+        "Comfortable handle"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "USB-C Study Hub",
+      "category": "Electronics",
+      "price": 24.99,
+      "rating": 4.1,
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80",
+      "bestSeller": false,
+      "description": "A slim USB-C adapter with extra ports for class presentations and desk setups.",
+      "details": [
+        "HDMI, USB-A, and SD card ports",
+        "Lightweight aluminum body",
+        "Works with many modern laptops"
+      ]
+    }
+  ],
+  "cart": []
+}
